@@ -1,3 +1,5 @@
+// This is the Main class that creates instances of the PDFDocument, WordDocument, and HTMLDocument classes. It calls the print method of each instance.
+
 public class Main {
     public static void main(String[] args) {
 
